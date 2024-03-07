@@ -1,0 +1,22 @@
+{
+  "name": "get-nfts",
+  "version": "1.0.0",
+  "description": "Fetch NFTs owned by a wallet address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boskomp/get-nfts.git"
+  },
+  "author": "boskomp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boskomp/get-nfts/issues"
+  },
+  "homepage": "https://github.com/boskomp/get-nfts#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
